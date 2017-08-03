@@ -1,23 +1,92 @@
 {
-  "name": "react-native-pie-chart",
-  "version": "1.0.12",
-  "description": "pie chart for react native",
-  "main": "./src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "node ./node_modules/.bin/eslint ./src"
+  "_args": [
+    [
+      {
+        "name": "react-native-pie-chart",
+        "raw": "react-native-pie-chart",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Projects/WheelAnimation"
+    ]
+  ],
+  "_from": "react-native-pie-chart@latest",
+  "_id": "react-native-pie-chart@1.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-pie-chart",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-pie-chart-1.0.4.tgz_1478091838460_0.05859074695035815"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/genexu/react-native-pie-chart.git"
+  "_npmUser": {
+    "email": "genexu1117@gmail.com",
+    "name": "genexu"
   },
-  "author": "Gene Xu",
-  "license": "MIT",
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-pie-chart",
+    "raw": "react-native-pie-chart",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pie-chart/-/react-native-pie-chart-1.0.4.tgz",
+  "_shasum": "7953265246a7cbfc36e4ea953786101b4e781039",
+  "_shrinkwrap": null,
+  "_spec": "react-native-pie-chart",
+  "_where": "/Projects/WheelAnimation",
+  "author": {
+    "name": "Gene Xu"
+  },
   "bugs": {
     "url": "https://github.com/genexu/react-native-pie-chart/issues"
   },
+  "dependencies": {},
+  "description": "pie chart for react native",
   "devDependencies": {
     "eslint": "^3.8.1",
     "eslint-plugin-react": "^6.4.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "7953265246a7cbfc36e4ea953786101b4e781039",
+    "tarball": "https://registry.npmjs.org/react-native-pie-chart/-/react-native-pie-chart-1.0.4.tgz"
+  },
+  "gitHead": "8142a1ee72a27e7a1b4ad9242760182a33446c30",
+  "homepage": "https://github.com/genexu/react-native-pie-chart#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "genexu1117@gmail.com",
+      "name": "genexu"
+    }
+  ],
+  "name": "react-native-pie-chart",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genexu/react-native-pie-chart.git"
+  },
+  "scripts": {
+    "lint": "node ./node_modules/.bin/eslint ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4",
+  "rnpm": {
+    "android": {
+      "packageInstance": "new PieChartPackage(this)"
+    }
   }
+
 }

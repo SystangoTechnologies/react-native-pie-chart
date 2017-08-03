@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/stplmacmini19/Projects/BatterVsPitcher 3/node_modules/react-native-pie-chart/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/stplmacmini19/Projects/BatterVsPitcher 3/node_modules/react-native-pie-chart/android/src/release/shaders"/></dataSet></merger>
